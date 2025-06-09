@@ -1,1 +1,11 @@
-body {  background-color: #A52502; }
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  text-align: center; /* Esto centra todo el contenido */
+  padding: 40px;
+}
+
+img {
+  display: block;
+  margin: 0 auto 20px auto; /* Centra la imagen y le da espacio abajo */
+}
