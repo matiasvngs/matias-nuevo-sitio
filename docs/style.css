@@ -1,2 +1,8 @@
 body { background-color: #A52502;
-       color: #ffffff;  }
+       color: #ffffff;  
+       font-family: Arial, sans-serif;
+       align-items: center;
+       justify-content: center;
+
+
+}
